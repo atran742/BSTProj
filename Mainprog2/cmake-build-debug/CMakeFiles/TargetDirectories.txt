@@ -1,0 +1,3 @@
+/Users/amytran/CLionProjects/Mainprog2/cmake-build-debug/CMakeFiles/Mainprog2.dir
+/Users/amytran/CLionProjects/Mainprog2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amytran/CLionProjects/Mainprog2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
